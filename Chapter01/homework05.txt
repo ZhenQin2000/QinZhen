@@ -1,0 +1,4 @@
+Java编写步骤
+1. 编写Java原代码（后缀为.java文件）
+2. 对Java原代码进行编译，使用 javac <filename.java>命令，生成可执行的.class文件
+3. 使用 java <filename>允许.class文件（注意不需要加.class后缀）
